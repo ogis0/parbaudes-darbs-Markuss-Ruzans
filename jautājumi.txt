@@ -1,0 +1,9 @@
+ Pieeja pirms koda 
+
+Pirms koda rakstīšanas manuāli atvēršu žurnālfailu, lai apskatītu sturktūru laik un datumu. Lai noskaidrotu stundu ar viss vairāk kļūdam es izmantotu iebūvēto "Search opciju".
+Tad es saskaitītu kļūdu skaitu katrai stundai, un salīdzinātu rezultātus.
+
+Objekti, nevis teksts
+
+
+Powershll izmanto onjektus, kuros katram procesam ir tādas īpašības kā nosaukus, PID un atmiņas patēriņ, bet bash nodrošīna neapstrādātu teksa virkni. 
